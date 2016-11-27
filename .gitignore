@@ -1,0 +1,11 @@
+# for SECRET_KEY
+secret.json
+
+# Database
+db.sqlite3
+
+# for cache file
+__pycache__
+
+# for Mac
+.DS_Store
